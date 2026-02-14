@@ -2,18 +2,18 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# C-Zone 🎯
 
-## Basic Details
+## Helping working professionals and students relief stress and related problems by giving suitable solutions
 
-### Team Name: [Name]
+### Team Name: Pandas
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Shafina Fathima] - [Ilahia College of Engineering and Technology]
+- Member 2: [Anjala Parveen N] - [Ilahia College of Engineering and Technology]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[]
 
 ### Project Description
 [2-3 lines about what your project does]
