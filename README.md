@@ -89,7 +89,7 @@ List the key features of your project:
 ![Screenshot2](ss2.png)
 *Add caption explaining what this shows*
 
-![Screenshot3](ss.png)
+![Screenshot3](ss3.png)
 *Add caption explaining what this shows*
 
 #### Diagrams
