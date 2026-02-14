@@ -13,16 +13,16 @@
 - Member 2: [Anjala Parveen N] - [Ilahia College of Engineering and Technology]
 
 ### Hosted Project Link
-[]
+[https://shafinavs.github.io/C-Zone/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[C-Zone or comfort zone is a website which helps students and working professionals  relief stress and related problems by giving suitable solutions. The possible issues they may face are given as options and each problem are addressed individually ]
 
 ### The Problem statement
-[What problem are you solving?]
+[Giving advice to students and working professionals on the discomfort they may face]
 
 ### The Solution
-[How are you solving it?]
+[Giving reasonable advice for specific problems]
 
 ---
 
@@ -31,10 +31,10 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
+- Languages used: [ JavaScript]
 - Frameworks used: [e.g., React, Django, Spring Boot]
 - Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Tools used: [VS Code, Git]
 
 **For Hardware:**
 - Main components: [List main components]
