@@ -1,0 +1,51 @@
+button {
+    background-color: #b797d1; /* A nice green color */
+    color: white;              /* White text */
+    padding: 10px 20px;       /* Makes the button bigger and clickable */
+    border: none;              /* Removes the default ugly grey border */
+    border-radius: 5px;        /* Rounds the corners */
+    cursor: pointer;           /* Makes the mouse turn into a hand icon */
+    font-size: 16px;           /* Makes the text readable */
+}
+
+/* This makes the button change color when you hover over it */
+button:hover {
+    background-color: #4add59; 
+}
+        h1{color:rgb(148, 51, 216);}
+        p{color:grey;}
+        h2{color:rgb(145, 103, 187);}
+        body {
+            /* Flexbox settings */
+            display: flex;
+            flex-direction: column;
+            align-items: center;      /* Horizontal centering */
+            justify-content: center; /* Vertical centering */
+            
+            /* Ensures the body takes up the full screen height */
+            min-height: 100vh;       
+            margin: 0;
+            
+            /* Optional: Better font for readability */
+            font-family: sans-serif;
+            text-align: center;
+        }
+
+        form {
+            /* Keeps the inputs stacked neatly */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        input[type="text"], 
+input[type="email"] {
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #9224c9; /* Matching your button hover color */
+    border-radius: 5px;
+    
+    /* This allows the box to expand to its content 
+       if the parent container allows it */
+    min-width: 150px; 
+    width: auto;
+}
